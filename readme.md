@@ -5,7 +5,7 @@ Limited vesrion for Azure face API is available for Free [here](https://azure.mi
 # Sample
 Sample input video and outputs are included in this repository.
 
-| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif" width=40%> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif"  width=40%>  |
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif" width=400px> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif"  width=400px>  |
 |-----|----|
 | Input | Output |
 
