@@ -5,7 +5,7 @@ Limited vesrion for Azure face API is available for Free [here](https://azure.mi
 # Sample
 Sample input video and outputs are included in this repository.
 
-| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif">  |
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif" width=40%> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif"  width=40%>  |
 |-----|----|
 | Input | Output |
 
@@ -13,7 +13,7 @@ Sample input video and outputs are included in this repository.
 
 | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg"> |
 |----------|----------|----------|----------|----------|
-| Person 1 (female, 14) | Person 2 (female, 27) | Person 3 (male, 9) | Person 4 (   male, 4) | Person 5 (female, 42) |
+| Person 1(female, 14) | Person 2(female, 27) | Person 3(male, 9) | Person 4(male, 4) | Person 5(female, 42) |
 
 ## How to use
 1. Clone git repo or download and extract zip 
