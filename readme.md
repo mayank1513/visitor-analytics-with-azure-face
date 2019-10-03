@@ -6,6 +6,8 @@ Limited vesrion for Azure face API is available for Free [here](https://azure.mi
 Sample input video and outputs are included in this repository.
 [![Sample Input](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
 
+Here are all the unique persons that are recognized in the video.
+|<img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg">|<img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg"|
 ## How to use
 1. Clone git repo or download and extract zip 
 2. open in VS code or any other python sde and edit subscription key and endpoint on line 16 and 19 respectively.
