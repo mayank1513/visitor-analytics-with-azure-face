@@ -5,13 +5,13 @@ Limited vesrion for Azure face API is available for Free [here](https://azure.mi
 # Sample
 Sample input video and outputs are included in this repository.
 
-| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif" width=400px> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif"  width=400px>  |
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif" width=500px> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif"  width=500px>  |
 |-----|----|
 | Input | Output |
 
 - Here are all the unique persons that are recognized in the video.
 
-| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg"> |
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg" width = 95px> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg" width = 95px>  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg" width = 95px>  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg" width = 95px>  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg" width = 95px> |
 |----------|----------|----------|----------|----------|
 | Person 1(female, 14) | Person 2(female, 27) | Person 3(male, 9) | Person 4(male, 4) | Person 5(female, 42) |
 
