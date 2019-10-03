@@ -7,8 +7,9 @@ Sample input video and outputs are included in this repository.
 
 | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif">  |
 |-----|----|
-| Input video | Output |
-Here are all the unique persons that are recognized in the video.
+| Input | Output |
+
+- Here are all the unique persons that are recognized in the video.
 
 | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg"> |
 |----------|----------|----------|----------|----------|
