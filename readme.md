@@ -4,17 +4,19 @@ Limited vesrion for Azure face API is available for Free [here](https://azure.mi
 
 # Sample
 Sample input video and outputs are included in this repository.
-[![Sample Input](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://www.youtube.com/watch?v=nX_inqaAzOI&feature=youtu.be&hd=1 "RMI Fibonacci Java")
 
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/sample.gif"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/out.sample_1x.gif">  |
+|-----|----|
+| Input video | Output |
 Here are all the unique persons that are recognized in the video.
 
 | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg"> |
 |----------|----------|----------|----------|----------|
-| Person 1 | Person 2 | Person 3 | Person 4 | Person 5 |
+| Person 1 (female, 14) | Person 2 (female, 27) | Person 3 (male, 9) | Person 4 (   male, 4) | Person 5 (female, 42) |
 
 ## How to use
 1. Clone git repo or download and extract zip 
-2. open in VS code or any other python sde and edit subscription key and endpoint on line 16 and 19 respectively.
+2. open in VS code or any other python sde and edit subscription key and endpoints on line 16, 19 and 201.
 3. type 
     python retail_genome.py -v sample.mp4
 
