@@ -8,9 +8,10 @@ Sample input video and outputs are included in this repository.
 
 Here are all the unique persons that are recognized in the video.
 
-| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg" |
-|-------------------|------------------------------|
-| Person 1 | Person 2 |
+| <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor1.jpg"> | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor2.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor3.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor4.jpg">  | <img src="https://raw.githubusercontent.com/mayank1513/visitor-analytics-with-azure-face/master/visitor_images/visitor5.jpg"> |
+|----------|----------|----------|----------|----------|
+| Person 1 | Person 2 | Person 3 | Person 4 | Person 5 |
+
 ## How to use
 1. Clone git repo or download and extract zip 
 2. open in VS code or any other python sde and edit subscription key and endpoint on line 16 and 19 respectively.
