@@ -8,7 +8,7 @@ Sample input video and outputs are included in this repository.
 
 ## How to use
 1. Clone git repo or download and extract zip 
-2. open in VS code or any other python sde or just run cmd in this folder
+2. open in VS code or any other python sde and edit subscription key and endpoint on line 16 and 19 respectively.
 3. type 
     python retail_genome.py -v sample.mp4
 

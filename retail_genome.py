@@ -13,10 +13,10 @@ import tkinter as tk
 from shutil import rmtree
 
 # set to your own subscription key value
-subscription_key = "5a62ec332ef9459d98d29e08354b3f8c"
+subscription_key = "your-subscription-key"
 assert subscription_key
 # replace <My Endpoint String> with the string from your endpoint URL
-face_api_url = 'https://southeastasia.api.cognitive.microsoft.com/face/v1.0/detect'
+face_api_url = 'https://-------your-end-point-----.cognitive.microsoft.com/face/v1.0/detect'
 
 # arguments
 ap = argparse.ArgumentParser()
