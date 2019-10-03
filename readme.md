@@ -1,6 +1,6 @@
 # Visitor Analytics Using Azure Face API
 
-Limited vesrion for Azure face API is available for Free and can be used for testing the scripts like this or building your own solutions by forking and modifying the script.
+Limited vesrion for Azure face API is available for Free [here](https://azure.microsoft.com/en-in/services/cognitive-services/face/) and can be used for testing the scripts like this or building your own solutions by forking and modifying the script.
 
 # Sample
 Sample input video and outputs are included in this repository.
